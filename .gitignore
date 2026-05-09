@@ -5,4 +5,12 @@
 /*.rbxlx.lock
 /*.rbxl.lock
 
+# Rojo sourcemap
 sourcemap.json
+
+# Wally packages
+Packages/
+
+# Roblox binary place files
+*.rbxl
+*.rbxlx
